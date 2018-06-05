@@ -7,3 +7,5 @@ The origin code in the book is available in the online Jupyter notebooks at http
 ## Current content
 
 - Code for chapter02 - End-to-End Machine Learning Project
+
+- Code for chapter03 - Classification based on MNIST
